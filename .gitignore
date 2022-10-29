@@ -1,0 +1,11 @@
+Binaries/
+Build/
+Content/
+DerivedDataCache/
+Game/
+Intermediate/
+Saved/
+
+.vs
+ToonTanks.sln
+ToonTanks.uproject
